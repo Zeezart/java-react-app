@@ -1,16 +1,12 @@
-package com.in28minutes.fullstack.springboot.react.basic.authentication.springbootreactbasicauthloginlogout;
+package com.in28minutes.fullstack.springboot.fullstack.basic.authentication.springbootfullstackbasicauthloginlogout;
 
-import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
 
-@RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootReactBasicAuthLoginLogoutApplicationTests {
+class SpringBootReactBasicAuthLoginLogoutApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
