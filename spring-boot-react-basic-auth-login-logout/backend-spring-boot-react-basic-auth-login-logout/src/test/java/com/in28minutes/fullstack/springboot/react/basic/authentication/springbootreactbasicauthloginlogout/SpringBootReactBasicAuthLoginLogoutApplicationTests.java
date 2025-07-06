@@ -8,5 +8,6 @@ class SpringBootReactBasicAuthLoginLogoutApplicationTests {
 
     @Test
     void contextLoads() {
+        // Test will pass if the application context loads successfully
     }
 }
