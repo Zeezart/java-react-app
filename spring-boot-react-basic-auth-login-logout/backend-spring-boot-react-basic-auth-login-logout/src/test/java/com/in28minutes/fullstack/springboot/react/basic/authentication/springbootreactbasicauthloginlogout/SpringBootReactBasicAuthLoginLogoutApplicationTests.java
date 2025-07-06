@@ -1,4 +1,4 @@
-package com.in28minutes.fullstack.springboot.fullstack.basic.authentication.springbootfullstackbasicauthloginlogout;
+package com.in28minutes.fullstack.springboot.react.basic.authentication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
